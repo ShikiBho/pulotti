@@ -7,6 +7,7 @@ REQUISITI SU DISCORD
 Solo chi ha i permessi da administrator può usare i comandi
 Ruolo "Maranza" (modificabile nel codice) per far si che una persona 
 venga mostrata come "jailed"
+Crea un canale vocale chiamato "prigione"
 
 comandi 
 !jail @ della persona in questione
